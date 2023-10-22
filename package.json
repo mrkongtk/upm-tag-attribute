@@ -1,0 +1,8 @@
+{
+	"name": "com.mrkongtk.tagattribute",
+	"displayName": "TagAttribute",
+	"version": "1.0.0",
+	"description": "This tool streamlines the process of selecting pre-existing tags from a dropdown menu within the inspector, reducing the likelihood of typographical errors when inputting strings. The source code is openly sourced and attributed to its original author, with a link provided within the code for further reference.",
+	"unity": "2017.1",
+	"author": "MrKongTK (https://mrkong.tk)"
+}
